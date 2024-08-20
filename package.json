@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@supabase/supabase-js": "^1.28.5",
+    "@sendgrid/mail": "^7.6.0",
+    "cors": "^2.8.5"
+  }
+}
